@@ -1,0 +1,29 @@
+Write a program in python for calculating the following stats:
+1. Interval Estimate
+2. Point Estimate
+3. Hypothesis Testing
+	Ztest/Ttest
+
+
+def stats_calc(population_mean, sample_mean=0, standard_deviation=0, sample_size=0, alpha, flag, flag_tail, csv_file):
+	--------------------------
+	--------------------------
+	--------------------------
+	alpha values in dictionary (0.05/0.025) (z-dic/tdict)
+	automatically decide for the type of test (z or t)
+	--------------------------
+	interval estimate
+	point estimate	
+
+	return results
+
+Result : 
+1. Hyp Test
+This is a Z-distribution and Reject Null Hypothesis
+2. Interval Estimate
+3. Point Estimate
+
+NOTE : Make use of proper Exception handling
+
+
+kuls.utkarsh@gmail.com
